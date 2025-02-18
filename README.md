@@ -1,1 +1,4 @@
-# CanadaCensus
+# Canada Census Data
+In this project, we developed a business case for an interior design company, leveraging Canadian census tract data to identify high-potential markets. Using **K-Means and BIRCH clustering techniques**, we segmented census tracts into three clusters based on total households, median household income, and dwelling characteristics. This analysis provided actionable insights, such as aligning product offerings with regional demand and strategically positioning new store locations.
+
+To enhance decision-making, we conducted predictive modeling to forecast median household income. **Segmentation-based models** demonstrated improved accuracy over global models. Specifically, an Artificial Neural Network (ANN) is recommended for Clusters 0 and 1, while a K-Nearest Neighbors (KNN) model is best suited for Cluster 2, ensuring tailored predictions for different market segments.
